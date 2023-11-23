@@ -16,7 +16,7 @@ title: Leo Club Pulchowk
 subtitle: "Official website of leo club of Pulchowk Campus"
 url: "Leo-Club-Pulchowk" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "https://rishikesh0523.github.io"
+baseurl: "https://rishikesh0523.github.io/Leo-Club-Pulchowk"
 cover: "/assets/slider-bg.jpg"
 logo: "/assets/leo-club-pulchowk.jpg"
 

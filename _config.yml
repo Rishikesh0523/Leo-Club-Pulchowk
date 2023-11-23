@@ -19,6 +19,7 @@ url: "http://rishikesh0523.github.io" # the base hostname & protocol for your si
 baseurl: "/leo-club-pulchwok"
 cover: "/assets/slider-bg.jpg"
 logo: "/assets/leo-club-pulchowk.jpg"
+theme: "airspace"
 
 # Build settings
 markdown: kramdown
